@@ -1,0 +1,53 @@
+# Django #
+*.log
+*.pot
+db.sqlite3
+migrations
+
+# Backup files # 
+*.bak 
+
+# Python # 
+*.py[cod]
+*.pyc
+__pycache__
+*$py.class 
+
+# Distribution / packaging 
+.Python build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64
+share
+bin
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.cfg
+*.egg
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# pyenv 
+.python-version
+include
+
+# Environments 
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
