@@ -4,6 +4,9 @@
 db.sqlite3
 migrations
 
+#GithubToken
+token.txt
+
 # Backup files # 
 *.bak 
 
